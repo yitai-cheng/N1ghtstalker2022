@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently a MSc student learning Integrated Machine Learning System in UCL.
+- 💬 I'm interested in learning all kinds of algorithms.
+- 🤔 My favorite programming language is JAVA!
 
 <!--
 **N1ghtstalker2022/N1ghtstalker2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
